@@ -60,10 +60,10 @@ const Footer = () => {
                         &copy; {new Date().getFullYear()} Luro. All rights reserved.
                     </p>
                     <div className="flex items-center gap-4">
-                        <Link href="#" className="p-1">
+                        <Link href="www.instagram.com/jishan.dv" className="p-1">
                             <Icons.instagram className="w-5 h-5 text-muted-foreground hover:text-secondary-foreground" />
                         </Link>
-                        <Link href="#" className="p-1">
+                        <Link href="www.x.com/jishancodes" className="p-1">
                             <Icons.twitter className="w-5 h-5 text-muted-foreground hover:text-secondary-foreground" />
                         </Link>
                         <Link href="#" className="p-1">
